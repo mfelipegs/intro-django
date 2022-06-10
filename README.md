@@ -1,2 +1,2 @@
-# hello-django
+# intro-django
 Django framework introduction
