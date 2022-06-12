@@ -1,7 +1,7 @@
 # intro-django
 Django framework introduction
 
-The exercise given in Digital Innovation One's Python and Django Web Development course is: use Django paths to do arithmetic operations. The app accepts 3 parameters in the URL:
+The exercise given in [Digital Innovation One](https://web.dio.me/)'s Python and Django Web Development course is: use Django paths to do arithmetic operations. The app accepts 3 parameters in the URL:
 - 1st: the arithmetic operation;
 - 2nd: the first value;
 - 3rd: the second value.  
